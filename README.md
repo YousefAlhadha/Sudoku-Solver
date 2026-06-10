@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-A Python Sudoku solver with an interactive dark-mode GUI. Solves puzzles step-by-step with visual feedback, or instantly via two different solving algorithms.
+A Python Sudoku solver with an interactive GUI. Solves puzzles step-by-step with visual feedback.
 
 ## Features
 
